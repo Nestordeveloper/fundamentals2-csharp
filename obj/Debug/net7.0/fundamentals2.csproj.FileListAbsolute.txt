@@ -1,0 +1,14 @@
+C:\Users\snela\Desktop\fundamentals2\obj\Debug\net7.0\fundamentals2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snela\Desktop\fundamentals2\obj\Debug\net7.0\fundamentals2.AssemblyInfoInputs.cache
+C:\Users\snela\Desktop\fundamentals2\obj\Debug\net7.0\fundamentals2.AssemblyInfo.cs
+C:\Users\snela\Desktop\fundamentals2\obj\Debug\net7.0\fundamentals2.csproj.CoreCompileInputs.cache
+C:\Users\snela\Desktop\fundamentals2\bin\Debug\net7.0\fundamentals2.exe
+C:\Users\snela\Desktop\fundamentals2\bin\Debug\net7.0\fundamentals2.deps.json
+C:\Users\snela\Desktop\fundamentals2\bin\Debug\net7.0\fundamentals2.runtimeconfig.json
+C:\Users\snela\Desktop\fundamentals2\bin\Debug\net7.0\fundamentals2.dll
+C:\Users\snela\Desktop\fundamentals2\bin\Debug\net7.0\fundamentals2.pdb
+C:\Users\snela\Desktop\fundamentals2\obj\Debug\net7.0\fundamentals2.dll
+C:\Users\snela\Desktop\fundamentals2\obj\Debug\net7.0\refint\fundamentals2.dll
+C:\Users\snela\Desktop\fundamentals2\obj\Debug\net7.0\fundamentals2.pdb
+C:\Users\snela\Desktop\fundamentals2\obj\Debug\net7.0\fundamentals2.genruntimeconfig.cache
+C:\Users\snela\Desktop\fundamentals2\obj\Debug\net7.0\ref\fundamentals2.dll
